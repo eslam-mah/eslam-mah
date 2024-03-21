@@ -1,4 +1,4 @@
-I'm a passionate Flutter developer with [X] years of experience in crafting robust and beautiful mobile applications. My journey with Flutter began with its inception, and I've been deeply involved in its ecosystem ever since. Over the years, I've honed my skills in building cross-platform mobile apps that deliver seamless user experiences.
+I'm a passionate Flutter developer with 2 years of experience in crafting robust and beautiful mobile applications. My journey with Flutter began with its inception, and I've been deeply involved in its ecosystem ever since. Over the years, I've honed my skills in building cross-platform mobile apps that deliver seamless user experiences.
 
 What I Do
 As a Flutter developer, I specialize in:
